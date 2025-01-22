@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\PozitiveNumberCheck\PozitiveNumberCheck\bin\Debug\PozitiveNumberCheck.exe.config
+C:\Users\Lenovo\Desktop\PozitiveNumberCheck\PozitiveNumberCheck\bin\Debug\PozitiveNumberCheck.exe
+C:\Users\Lenovo\Desktop\PozitiveNumberCheck\PozitiveNumberCheck\bin\Debug\PozitiveNumberCheck.pdb
+C:\Users\Lenovo\Desktop\PozitiveNumberCheck\PozitiveNumberCheck\obj\Debug\PozitiveNumberCheck.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PozitiveNumberCheck\PozitiveNumberCheck\obj\Debug\PozitiveNumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PozitiveNumberCheck\PozitiveNumberCheck\obj\Debug\PozitiveNumberCheck.exe
+C:\Users\Lenovo\Desktop\PozitiveNumberCheck\PozitiveNumberCheck\obj\Debug\PozitiveNumberCheck.pdb
